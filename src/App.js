@@ -15,7 +15,7 @@ const App = () => {
 
     const context = useContext(MyContext);
 
-    console.log(context)
+    // console.log(context)
 
     return(
 
